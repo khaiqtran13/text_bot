@@ -15,4 +15,5 @@ python3 sendMessage.py
 
 <h3>sendMessage.py</h3>
 
-To change target message modify the parameters in main
+To change target number and message modify the parameters in main.
+The python program allows you to loop and manipulate the script.
