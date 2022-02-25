@@ -1,6 +1,8 @@
-# spambot
+# Text Bot
 
-This program uses osascript with Python to automatically send messages
+This program uses osascript with Python to automatically send messages through MacOS
+
+***messaging fees apply***
 
 
 To use this script:
@@ -17,3 +19,5 @@ python3 sendMessage.py
 
 To change target number and message modify the parameters in main.
 The python program allows you to loop and manipulate the script.
+
+please do not use for malicious purposes
